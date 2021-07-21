@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385256108880",
+    "project_id": "phoneauth-b7114",
+    "storage_bucket": "phoneauth-b7114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385256108880:android:09bb7a51bfa653a5ce7255",
+        "android_client_info": {
+          "package_name": "com.soul.phoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385256108880-9mq97rolbugpg4m9cdi7u4npsterph02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4XggpIBGE_RTe9nMbahFQ5Ioo97LBflQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385256108880-9mq97rolbugpg4m9cdi7u4npsterph02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
